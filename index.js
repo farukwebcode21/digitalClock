@@ -1,7 +1,2 @@
- console.log("Javascript is connect");
-
- function welcome(){
-   
-    
- }
- welcome("Hello World")
+const clock = document.getElementById('clock');
+const hour =document.getElementById('hour');
